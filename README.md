@@ -4,7 +4,7 @@ Data/HeathLabData.xlsx contains data from Ghazanfari 2021.
 Note: Data to be used with scripts is to be in the following format:
 movie,time (s),track ID,x,y,z
 
-Scripts are to be ran in the following order. Data files regarding HeathLabData.xlsx were separated by day and cell type, and re-merged after reformatting.
+Scripts are to be ran in the following order. Data files regarding HeathLabData.xlsx were separated by day and cell type, and re-merged (cell type still kept separated) after reformatting. See bash files for example of procedure.
 
 Scripts/reformattime.py [original data file] [original time frequency] [new time frequency] - Changes time stamps to a common frequency
 
