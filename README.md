@@ -1,5 +1,4 @@
 # TcellsInBrain
-Data/HarrisData.xlsx contains data from Harris 2012.
 Data/HeathLabData.xlsx contains data from Ghazanfari 2021.
 
 Note: Data to be used with scripts is to be in the following format:
