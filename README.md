@@ -20,7 +20,9 @@ Scripts/brainpaperfigures.py - Creates figures used in the paper. Directories wi
 
 
 ====================
+
 Other Tools:
+
 Scripts/simulate.py [output file] [# of cells] [# of steps] [muRun] [muPause] [kappa] [optional: pausePattern] - creates simulated cells based on parameters. Possible pausePattern options as 'alternate' and 'random' with the default being 'alternate'.
 
 Scripts/resampledata.py [file] [new sampling interval] - Resamples the data at given sampling interval
