@@ -1,5 +1,7 @@
 # TcellsInBrain
 Data/HeathLabData.xlsx contains data from Ghazanfari 2021.
+Data from Harris 2012 is are freely available from Dr. Harris on request.
+
 
 Note: Data to be used with scripts is to be in the following format:
 movie,time (s),track ID,x,y,z
